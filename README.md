@@ -2,6 +2,12 @@
 
 # WEEK 2 ASSIGNMENTS
 
+# Group 
+## Wolfpak
+### Members
+#### T.I.Q.S. 3rd3y3 Michael Maximus Uriah_Victorious
+
+
 **AWS Study Notes: EC2 Instance Types**
 
 Based on your Cloud Vikings transcript, organized in your preferred format.
